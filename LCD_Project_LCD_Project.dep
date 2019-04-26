@@ -1,0 +1,19 @@
+Dependencies for Project 'LCD_Project', Target 'LCD_Project': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5A0B0DE1)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5A182CD0)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (tm4c123gh6pm.h)(0x5A0B0DE1)
+I (LCDHeader.h)(0x5A182FC2)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C819B4)
+F (.\initialization.c)(0x5A182F96)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\initialization.o --omf_browse .\initialization.crf --depend .\initialization.d)
+I (tm4c123gh.h)(0x5A0B0DE1)
+I (LCDHeader.h)(0x5A182FC2)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+F (.\Delay.c)(0x5A0B0DE1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (tm4c123gh6pm.h)(0x5A0B0DE1)
+I (LCDHeader.h)(0x5A182FC2)
+F (.\Documentation.c)(0x5A0B0DE1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\documentation.o --omf_browse .\documentation.crf --depend .\documentation.d)
+F (.\tm4c123gh6pm.h)(0x5A0B0DE1)()
