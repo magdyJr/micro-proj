@@ -1,2 +1,2 @@
 # micro-proj
-simple calculator with micro-controller
+simple calculator with TIVA_C micro-controller
